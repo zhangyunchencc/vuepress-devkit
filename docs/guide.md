@@ -154,7 +154,7 @@ this is a tip
 this is a tip
 :::
 
-### 支持Emoji
+### 支持 Emoji
 代码：
 
     :tada: :100: :bamboo: :gift_heart: :fire:
